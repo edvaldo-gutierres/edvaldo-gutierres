@@ -1,14 +1,14 @@
-# Olá, eu sou Ed! 👋
+# Olá, eu sou Edvaldo! 👋
 
 ## Sobre mim
-Sou engenheiro de dados com experiência em desenvolvimento de soluções end-to-end. Tenho paixão por resolver problemas complexos e sempre busco aprimorar minhas habilidades por meio de uma rotina de estudos contínuos.
+Sou engenheiro de dados com experiência em desenvolvimento de soluções end-to-end. Tenho paixão por resolver problemas que envolva análise de dados e sempre busco aprimorar minhas habilidades por meio de uma rotina de estudos contínuos.
 
 ---
 ## 📈 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/seu-usuario">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edvaldo-gutierres&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldo-gutierres&layout=compact&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edvaldo-gutierres&show_icons=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldo-gutierres&layout=compact&theme=dark"/>
   </a>
 </div>
 <br/><br/>
@@ -27,20 +27,17 @@ Sou engenheiro de dados com experiência em desenvolvimento de soluções end-to
 <br/><br/>
 <br/><br/>
 
+<!--
 ---
-
 ## 🌟 Projetos em Destaque
 - [**Em construção**](link_projeto): Em breve.
-  
----
+-->
 
+---
 ## 📫 Como me encontrar
 - **LinkedIn:** [edvaldo-gutierres-6b4a5768](https://www.linkedin.com/in/edvaldo-gutierres-6b4a5768/)
 - **E-mail:** [edvaldo_gutierres@yahoo.com.br](edvaldo_gutierres@yahoo.com.br)
 - **GitHub:** [https://github.com/edvaldo-gutierres](https://github.com/edvaldo-gutierres)
 
-## 🧠 Sempre Aprendendo
-Atualmente estou me aprofundando em [LLM], buscando sempre novas maneiras de resolver desafios e otimizar processos.
+---
 
-
-_Fique à vontade para explorar meus repositórios e entrar em contato!_
