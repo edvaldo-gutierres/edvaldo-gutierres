@@ -1,7 +1,7 @@
 # Olá, eu sou Edvaldo Gutierres! 👋
 
 ## Sobre mim
-Sou engenheiro de dados com experiência em desenvolvimento de soluções end-to-end. Tenho paixão por resolver problemas que envolva análise de dados e sempre busco aprimorar minhas habilidades por meio de uma rotina de estudos contínuos.
+Sou engenheiro de dados com experiência em desenvolvimento de soluções end-to-end. Tenho paixão por resolver problemas que envolvam análise de dados e sempre busco aprimorar minhas habilidades por meio de uma rotina de estudos contínuos.
 
 ---
 ## 📈 Estatísticas do GitHub
