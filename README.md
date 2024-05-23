@@ -6,7 +6,7 @@ Sou engenheiro de dados com experiência em desenvolvimento de soluções end-to
 ---
 ## 📈 Estatísticas do GitHub
 <div align="center">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/edvaldo-gutierres">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edvaldo-gutierres&show_icons=true&theme=dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldo-gutierres&layout=compact&theme=dark"/>
   </a>
