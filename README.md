@@ -7,11 +7,17 @@ Sou engenheiro de dados com experiência em desenvolvimento de soluções end-to
 ## 📈 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/edvaldo-gutierres">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edvaldo-gutierres&show_icons=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edvaldo-gutierres&show_icons=true&theme=dark&rank_icon=github"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldo-gutierres&layout=compact&theme=dark"/>
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/edvaldo-gutierres">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=edvaldo-gutierres&theme=radical&hide_border=true"/>
+  </a>
+</div>
 <br/><br/>
+
 
 ---
 ## 🚀 Skill's e Tecnologias
