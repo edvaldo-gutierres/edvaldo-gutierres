@@ -50,7 +50,7 @@ Sou engenheiro de dados com experiência em desenvolvimento de soluções end-to
 ---
 ## 📫 Como me encontrar
 - **LinkedIn:** [edvaldo-gutierres-6b4a5768](https://www.linkedin.com/in/edvaldo-gutierres-6b4a5768/)
-- **E-mail:** [edvaldo_gutierres@yahoo.com.br](edvaldo_gutierres@yahoo.com.br)
+- **E-mail:** [edvaldo_gutierres@yahoo.com.br](mailto:edvaldo_gutierres@yahoo.com.br)
 - **GitHub:** [https://github.com/edvaldo-gutierres](https://github.com/edvaldo-gutierres)
 
 ---
