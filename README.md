@@ -20,7 +20,8 @@ Sou engenheiro de dados com experiência em desenvolvimento de soluções end-to
 
 ---
 ## 📜 Certificações
-<a href = 'https://learn.microsoft.com/pt-br/users/edvaldogutierres/credentials/700382bdceaaaa17'><img align="left" alt="Power BI Data Analyst Associate" widht="150ppx" height="150ppx" src="https://github.com/edvaldo-gutierres/edvaldo-gutierres/blob/main/img/powerbi.png" /> </a>
+<a href = 'https://learn.microsoft.com/pt-br/users/edvaldogutierres/credentials/b101dea411f92bd3'><img align="left" alt="Fabric Analytics Engineer Associate" width="290px" height="150px" src="https://github.com/edvaldo-gutierres/edvaldo-gutierres/blob/main/img/fabric2.png" /> </a>
+<a href = 'https://learn.microsoft.com/pt-br/users/edvaldogutierres/credentials/700382bdceaaaa17'><img align="left" alt="Power BI Data Analyst Associate" widht="150px" height="150ppx" src="https://github.com/edvaldo-gutierres/edvaldo-gutierres/blob/main/img/powerbi.png" /> </a>
 <a href = 'https://www.credly.com/badges/b5d15ab4-2b6d-4f6e-afb8-5db18bb24ca3/public_url'><img align="left" alt="Business Intelligence Foundation Professional Certification - BIFPC™" widht="150px" height="150ppx" src="https://github.com/edvaldo-gutierres/edvaldo-gutierres/blob/main/img/business_intelligence_foundation.png" /> </a>
 <a href = 'https://www.credly.com/badges/06eb947c-c23a-461e-92f7-22b01e0581ef/public_url'><img align="left" alt="Scrum Foundation Professional Certification - SFPC™" widht="150px" height="150px" src="https://github.com/edvaldo-gutierres/edvaldo-gutierres/blob/main/img/scrum_foundation.png" /> </a>
 <br/><br/>
